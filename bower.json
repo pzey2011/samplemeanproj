@@ -1,0 +1,11 @@
+{
+  "name": "samplemeanproj",
+  "description": "my proj",
+  "main": "index.js",
+  "authors": [
+    "Peyman Zeynali"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true
+}
